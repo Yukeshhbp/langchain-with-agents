@@ -1,3 +1,4 @@
+numexpr
 wikipedia
 langchain-experimental
 langchain-community
