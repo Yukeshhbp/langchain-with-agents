@@ -10,7 +10,7 @@ from langchain.utilities import WikipediaAPIWrapper
 api_key = "AIzaSyBTpk_H6mW6ITjVfByKoVDdo83fY-mQckw"
 
 llm = ChatGoogleGenerativeAI(
-    model="gemini-pro",
+    model="gemini-2.0-flash",
     google_api_key=api_key,
     temperature=0,
     max_tokens=None,
