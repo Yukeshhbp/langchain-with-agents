@@ -1,3 +1,4 @@
+wikipedia
 langchain-experimental
 langchain-community
 streamlit
